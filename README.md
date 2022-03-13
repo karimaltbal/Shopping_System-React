@@ -1,5 +1,7 @@
 # Shopping_System-React
 
+Sorry, but the problem of uploading the json file is being solved to make the site deal with a database through the API
+
 project Link: https://karimaltbal.github.io/Shopping_System-React/
 
 The Arab market system: It is a simple system for shopping some foods, divided into two parts (management - customers). Management: You can add or modify any new product. Customers: He can reserve food, increase and decrease the quantity, and the reservation can be canceled.
