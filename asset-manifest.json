@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Shopping_System-React/static/css/main.a0ad4bf5.chunk.css",
+    "main.js": "/Shopping_System-React/static/js/main.9ad96733.chunk.js",
+    "main.js.map": "/Shopping_System-React/static/js/main.9ad96733.chunk.js.map",
+    "runtime-main.js": "/Shopping_System-React/static/js/runtime-main.33450603.js",
+    "runtime-main.js.map": "/Shopping_System-React/static/js/runtime-main.33450603.js.map",
+    "static/css/2.94dc4b89.chunk.css": "/Shopping_System-React/static/css/2.94dc4b89.chunk.css",
+    "static/js/2.cbde260e.chunk.js": "/Shopping_System-React/static/js/2.cbde260e.chunk.js",
+    "static/js/2.cbde260e.chunk.js.map": "/Shopping_System-React/static/js/2.cbde260e.chunk.js.map",
+    "index.html": "/Shopping_System-React/index.html",
+    "static/css/2.94dc4b89.chunk.css.map": "/Shopping_System-React/static/css/2.94dc4b89.chunk.css.map",
+    "static/css/main.a0ad4bf5.chunk.css.map": "/Shopping_System-React/static/css/main.a0ad4bf5.chunk.css.map",
+    "static/js/2.cbde260e.chunk.js.LICENSE.txt": "/Shopping_System-React/static/js/2.cbde260e.chunk.js.LICENSE.txt",
+    "static/media/all.css": "/Shopping_System-React/static/media/fa-solid-900.eeccf4f6.woff",
+    "static/media/header.d28c08ae.png": "/Shopping_System-React/static/media/header.d28c08ae.png",
+    "static/media/logo_company.050890a5.jpg": "/Shopping_System-React/static/media/logo_company.050890a5.jpg",
+    "static/media/presonal.a5b5a4c3.JPG": "/Shopping_System-React/static/media/presonal.a5b5a4c3.JPG",
+    "static/media/style.css": "/Shopping_System-React/static/media/top-right-bg.be3c0e79.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.33450603.js",
+    "static/css/2.94dc4b89.chunk.css",
+    "static/js/2.cbde260e.chunk.js",
+    "static/css/main.a0ad4bf5.chunk.css",
+    "static/js/main.9ad96733.chunk.js"
+  ]
+}
